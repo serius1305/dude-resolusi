@@ -5,6 +5,7 @@ Rencana dude
 *FrameworkJava Script
  ^angular
  ^reak
+- bahasa hewan
 -PHP
 *Laravel
 -Interview
