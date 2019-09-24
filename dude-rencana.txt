@@ -5,5 +5,7 @@ Rencana dude
 *FrameworkJava Script
 -Jadi proplayer
 -PHP
+*Laravel
 -Interview
 -Vlogs
+-python
