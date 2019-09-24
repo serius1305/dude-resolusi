@@ -6,6 +6,7 @@ Rencana dude
  ^angular
  ^reak
 -PHP
- ^laravel
+*Laravel
 -Interview
 -Vlogs
+-python
