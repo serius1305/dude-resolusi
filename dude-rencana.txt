@@ -3,6 +3,7 @@ Rencana dude
 -Java Script
 *hmm
 *FrameworkJava Script
+-Jadi proplayer
 -PHP
 -Interview
 -Vlogs
