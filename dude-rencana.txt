@@ -4,7 +4,8 @@ Rencana dude
 *hmm
 *FrameworkJava Script
  ^angular
--Jadi proplayer
+ ^reak
 -PHP
+ ^laravel
 -Interview
 -Vlogs
