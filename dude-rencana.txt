@@ -3,7 +3,8 @@ Rencana dude
 -Java Script
 *hmm
 *FrameworkJava Script
--Jadi proplayer
+ ^angular
+ ^reak
 -PHP
 *Laravel
 -Interview
